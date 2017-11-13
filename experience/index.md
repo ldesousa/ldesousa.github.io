@@ -8,22 +8,23 @@ Professional Experience
 Present
 -------
 
-GeoInformatics Scientist at ISRIC - World Soil Data since November of 2017.
+Nov. 2017 - GeoInformatics Scientist at [ISRIC - World Soil Information](www.isric.org).
 
 Past
 ----
 
-Postdoctoral Scientist at the Urban Water Management department of the Swiss Federal Institute of Aquatic Science and Technology (EAWAG), since January of 2016.
+Jan. 2016 - Oct. 2017 - Postdoctoral Scientist at the Urban Water Management department of the [Swiss Federal Institute of Aquatic Science and Technology](www.eawag.ch) (EAWAG).
 
-Researcher at the CRTE, CRP Henri Tudor (later merged into the Luxembourg Institute of Science and Technology), from September of 2011 to September of 2015.
-Consultant on Information Systems at the Tagus Basin Administration from March of 2009 to July of 2011.
+Sep. 2011 - Sep. 2015 - Researcher at the CRTE, [CRP Henri Tudor](www.tudor.lu) (later merged into the Luxembourg Institute of Science and Technology).
 
-Software development at SIQuant - Territory Engineering and Information Systems from January of 2008 to May of 2009.
+Mar. 2009 - Jul. 2011 - Information Systems at the [Tagus Basin Administration](www.arhtejo.pt).
 
-Researcher at the Civil Engineering Department of the Instituto Superior Técnico (Technical University of Lisbon) from August of 2002 to December of 2007.
+Jan. 2008 - May. 2009 - Software development at [SIQuant](www.siquant.pt) - Territory Engineering and Information Systems.
 
-Co-guider of the GIS MSc students António Calado and Maria Simões in the InforM@r project, part of the Mission Structure for the Expansion of the Continental Platform, between September of 2007 and June of 2008.
+Sep. 2007 - Jun. 2008 - Co-guider of the GIS MSc students António Calado and Maria Simões in the InforM@r project, part of the Mission Structure for the Expansion of the Continental Platform.
 
-Responsible teacher of the Data Bases course lectured to the Advanced Formation diploma (post-MSc) on GIS at the Instituto Superior Técnico (Technical University of Lisbon) in 2006.
+Sep. 2006 - Feb. 2007 - Lecturer of the Data Bases course to the Advanced Formation diploma (post-MSc) on GIS at the Instituto Superior Técnico (Technical University of Lisbon).
 
-Development of the corporate website www.anaguimaraes.pt in 2002.
+Aug. 2002 - Dec. 2007 - Researcher at the Civil Engineering Department of the Instituto Superior Técnico (Technical University of Lisbon).
+
+May. 2002 - Jul. 2002 - Development of the corporate website [www.anaguimaraes.pt](www.anaguimaraes.pt) in 2002.
