@@ -21,13 +21,10 @@ Publications
 - J. Čepický and L. M. de Sousa. [New implementation of OGC Web Processing Service in Python programming language](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B7/927/2016/isprs-archives-XLI-B7-927-2016.pdf). *Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.*, 927-930,	2016.
 	
 	
-- A Ribeiro, L de Sousa, AR da Silva. Comparative Analysis of Workbenches to Support DSMLs: Discussion with Non-Trivial Model-Driven Development Needs. *MODELSWARD*, 323-330.
+- A Ribeiro, L de Sousa, AR da Silva. Comparative Analysis of Workbenches to Support DSMLs: Discussion with Non-Trivial Model-Driven Development Needs. *MODELSWARD*, 323-330, 2016.
 
 
-- L. M. de Sousa, M. J. Gibson, A. S. Chen, D. Savic and J. P. Leitão, Hexagonal cellular automata for flood modelling. *Proceedings of CAMUSS - Cellular Automata Modelling for Urban and Spatial Systems* 2016.
-
-
-- L. M. de Sousa and A. R. da Silva. [A Domain Specific Language for Spatial Simulation Scenarios](). *GeoInformatica* 20 (1). Springer, 2016.
+- L. M. de Sousa and A. R. da Silva. A Domain Specific Language for Spatial Simulation Scenarios. *GeoInformatica* 20 (1). Springer, 2016.
 
 
 - A. Mastrucci, E. Popovici, A. Marvuglia, L. de Sousa, E. Benetto and U. Leopold. GIS-based Life Cycle Assessment of urban building stocks retrofitting-a bottom-up framework applied to Luxembourg. *EnviroInfo and ICT for Sustainability*, 2015.
