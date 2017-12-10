@@ -2,7 +2,7 @@
 
 [Personal web site](http://ldsousa.github.io)
 
-## Copywright
+## Copyright
 
 Copyright (c) 2016-2017 Luís Moreira de Sousa. All rights reserved. 
 Any use of this software constitutes full acceptance of all terms of the 
