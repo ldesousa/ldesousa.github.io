@@ -13,8 +13,8 @@
 
 
 <table>
-<tr><th>Title A</th><th>Title B</th></tr>
-<tr><td>Content a1</td><td>Content b1</td></tr>
-<tr><td>Content a2</td><td>Content b2</td></tr>
-<tr><td>Content a3</td><td>Content b3</td></tr>
+  <tr><th align=center>Year</th><th align=center>Degree</th><th align=center>Institution</th></tr>
+  <tr><td>Content a1</td><td>Content b1</td><td>Content c1</td></tr>
+  <tr><td>Content a2</td><td>Content b2</td><td>Content c2</td></tr>
+  <tr><td>Content a3</td><td>Content b3</td><td>Content c3</td></tr>
 </table>
