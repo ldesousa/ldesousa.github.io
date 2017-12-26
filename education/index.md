@@ -1,4 +1,9 @@
-<h2>Education</h2>
+---
+layout: default
+---
+
+Education
+=========
 
 <table  border="1" cellpadding=6 cellspacing=8 bordercolor=black style="border-color:rgb(0,0,0);border-width:1px;border-collapse:collapse">
 	<tr><th align=center>Year</th><th align=center>Degree</th><th align=center>Institution</th></tr>
