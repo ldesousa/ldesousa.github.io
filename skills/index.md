@@ -100,30 +100,6 @@ Software Engineering
  
 <td>Eclipse, Git, GitHub.com, GitLab, ReadTheDocs, L A TEX, SVN</td>
  </tr>
- 
-<tr></tr>
-<tr style="padding-bottom:1em">
-<td align="right" width="120px"><br>
-</td>
- 
-<td><br>
-</td>
- </tr>
- 
-<tr></tr>
-<tr style="padding-bottom:1em">
-<td align="right" width="120px"><br>
-</td>
- 
-<td><br>
-</td>
-</tr>
 </tbody>
 </table>
 
-
-
-</td>
-</tr>
-</tbody>
-</table>
