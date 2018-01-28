@@ -4,7 +4,7 @@ Skills
 GeoInformatics
 --------------
 
-<table>
+<table cellpadding=4>
 <tbody>
 <tr style="padding-bottom:1em">
  
