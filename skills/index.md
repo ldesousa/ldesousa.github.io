@@ -47,7 +47,7 @@ Software Architecture
 ---------------------
 
 
-<table cellpadding=4 width="90%">
+<table cellpadding=4>
 <tbody>
 <tr style="padding-bottom:1em">
  
@@ -79,7 +79,7 @@ Software Architecture
 Software Engineering
 ---------------------
 
-<table cellpadding=4 width="90%">
+<table cellpadding=4>
 <tbody>
 <tr style="padding-bottom:1em">
  
