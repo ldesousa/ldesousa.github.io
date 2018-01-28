@@ -4,7 +4,7 @@ Skills
 GeoInformatics
 --------------
 
-<table cellpadding=4 width="90%">
+<table>
 <tbody>
 <tr style="padding-bottom:1em">
  
@@ -18,10 +18,9 @@ GeoInformatics
  
 <td>MASON, GeoMASON, NetLogo, RePAST</td>
  </tr>
- 
 <tr></tr>
 <tr style="padding-bottom:1em">
-<td align="right" width="120px"><b>Analysis</b></td>
+<td align="right" width="120px"><b>GeoComputation</b></td>
  
 <td>PostGis, GRASS, R, GDAL, Shapely, Fiona, Proj, IDL</td>
  </tr>
@@ -46,9 +45,6 @@ GeoInformatics
 
 Software Architecture
 ---------------------
-
-
-
 
 
 <table cellpadding=4 width="90%">
