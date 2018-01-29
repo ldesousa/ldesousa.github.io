@@ -50,3 +50,8 @@ ul.posts li {
 content {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
+side {
+    float: left;
+    width: 70px;
+}
