@@ -71,5 +71,6 @@ ul.posts li {
 .content {
     margin-left: 160px;
     width: 90%;
+    height: 100%;
     /*background: black;*/
 }
